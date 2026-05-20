@@ -1,0 +1,2 @@
+cd "C:\Users\user\Downloads"
+uv run python infer-async.py
